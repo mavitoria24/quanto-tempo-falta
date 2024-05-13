@@ -10,5 +10,10 @@ body{
     text-align:center;
     font-family:'Chakra Petch';
 }
-
-h1 pan{}
+h1 pan{
+    color:var(--verde);
+    }
+    #dias_restantes{
+        color:var(--verde);
+        font-size:50px;
+    }
